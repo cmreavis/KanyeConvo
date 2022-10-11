@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4/C1mldcrnB22oXXapV4GidtqgPS35w5fK5tWc3R1qKJI4/ozKXt0ruEnWozquZjXdZ42aHGPp5wCOtfAjTJNQ==",
+  "dgSpecHash": "8ehnmATUR2hVXLK8qtxWdbMd0PYbxtO6jbxc/0u1xqAyzkRwyB7jwtPs2mS6jLny38TaJNFYTir+D2PtHzeJZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\cmrea\\Repos\\KanyeConvo\\KanyeAndRon\\KanyeAndRon\\KanyeAndRon.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cmrea\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
